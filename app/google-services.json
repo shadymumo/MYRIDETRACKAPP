@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "607382294635",
+    "firebase_url": "https://myridetrackapp-45efd.firebaseio.com",
+    "project_id": "myridetrackapp-45efd",
+    "storage_bucket": "myridetrackapp-45efd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607382294635:android:54c141517ec9c539cfa12e",
+        "android_client_info": {
+          "package_name": "com.awesomesolutions.myridetrackapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607382294635-odo1m8ainthj3r8fumd7ocakuegadb5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCza2bOKoqTNHRP9oCBHku0C_1cHtUs9-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607382294635-odo1m8ainthj3r8fumd7ocakuegadb5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
